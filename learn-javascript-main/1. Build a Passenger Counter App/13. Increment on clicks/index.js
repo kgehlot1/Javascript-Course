@@ -9,7 +9,7 @@
 // increment the count variable when the button is clicked
 // change the count-el in the HTML to reflect the new count
 
-let countEl = document.getElementById("count")
+let countEl = document.getElementById("count-el")
 
 let count = 0
 
