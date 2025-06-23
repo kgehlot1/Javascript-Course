@@ -7,3 +7,7 @@ function increment() {
 }
 
 
+// The DOM: Document Object Model
+// i.e. how you use javascript to modify a website
+// document = interacting w HTML document
+// object = taking html doc and shove into js object
